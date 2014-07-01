@@ -1,0 +1,1574 @@
+reading binary file: binfiles/AllGenomeFiles_K16_6_19.bin
+merLength: 16
+sizeof merLocType: 8
+queryLength: 31
+genomeChromListLength: 5188
+countMers: 19124839880
+genomeChromListLength: 5188
+genomeChromList: 
+MER_ARRAY_LENGTH: 4294967296
+countMers: 19124839880
+checkMerArray with countMers = 19124839880
+Query file fasta/971sh.fna opened.
+processing contigs from reference file: fasta/971sh.fna
+mer: TAGCTAAAGCACTCTTTGACGAAGCCCGTTT  len: 1   descriptor: >GF8803K02F040D
+3582 : -530954 : 30::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AGCTAAAGCACTCTTTGACGAAGCCCGTTTT  len: 1   descriptor: >GF8803K02F040D
+3582 : -530955 : 31::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: GCTAAAGCACTCTTTGACGAAGCCCGTTTTG  len: 1   descriptor: >GF8803K02F040D
+3582 : -530956 : 32::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CTAAAGCACTCTTTGACGAAGCCCGTTTTGA  len: 1   descriptor: >GF8803K02F040D
+3582 : -530957 : 33::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: TAAAGCACTCTTTGACGAAGCCCGTTTTGAT  len: 1   descriptor: >GF8803K02F040D
+3582 : -530958 : 34::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AAAGCACTCTTTGACGAAGCCCGTTTTGATA  len: 1   descriptor: >GF8803K02F040D
+3582 : -530959 : 35::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AAGCACTCTTTGACGAAGCCCGTTTTGATAG  len: 1   descriptor: >GF8803K02F040D
+3582 : -530960 : 36::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AGCACTCTTTGACGAAGCCCGTTTTGATAGA  len: 1   descriptor: >GF8803K02F040D
+3582 : -530961 : 37::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: GCACTCTTTGACGAAGCCCGTTTTGATAGAC  len: 1   descriptor: >GF8803K02F040D
+3582 : -530962 : 38::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CACTCTTTGACGAAGCCCGTTTTGATAGACT  len: 1   descriptor: >GF8803K02F040D
+3582 : -530963 : 39::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: GTAGAAGAACTTGCTTTAAATTTTGGTCGAT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531010 : 86::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: TAGAAGAACTTGCTTTAAATTTTGGTCGATT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531011 : 87::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AGAAGAACTTGCTTTAAATTTTGGTCGATTG  len: 1   descriptor: >GF8803K02F040D
+3582 : -531012 : 88::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: GAAGAACTTGCTTTAAATTTTGGTCGATTGA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531013 : 89::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AAGAACTTGCTTTAAATTTTGGTCGATTGAC  len: 1   descriptor: >GF8803K02F040D
+3582 : -531014 : 90::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AGAACTTGCTTTAAATTTTGGTCGATTGACA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531015 : 91::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: GAACTTGCTTTAAATTTTGGTCGATTGACAT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531016 : 92::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AACTTGCTTTAAATTTTGGTCGATTGACATT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531017 : 93::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: ACTTGCTTTAAATTTTGGTCGATTGACATTT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531018 : 94::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CTTGCTTTAAATTTTGGTCGATTGACATTTA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531019 : 95::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: TTGCTTTAAATTTTGGTCGATTGACATTTAA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531020 : 96::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CCAAGTGTACCAGTTGCATTGGTATATTGAG  len: 1   descriptor: >GF8803K02F040D
+3582 : -531067 : 143::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CAAGTGTACCAGTTGCATTGGTATATTGAGT  len: 1   descriptor: >GF8803K02F040D
+3582 : -531068 : 144::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AAGTGTACCAGTTGCATTGGTATATTGAGTA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531069 : 145::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: AGTGTACCAGTTGCATTGGTATATTGAGTAA  len: 1   descriptor: >GF8803K02F040D
+3582 : -531070 : 146::Prevotella_melaninogenica_ATCC_25845_uid51377 : NC_014371.fna
+mer: CGAAACTCACGACTCTCCCGTGTGGACAGGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170549 : 45::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987360 : 45::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215828 : 45::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GAAACTCACGACTCTCCCGTGTGGACAGGCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170550 : 46::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987361 : 46::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215829 : 46::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAACTCACGACTCTCCCGTGTGGACAGGCTG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170551 : 47::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987362 : 47::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215830 : 47::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AACTCACGACTCTCCCGTGTGGACAGGCTGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170552 : 48::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987363 : 48::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215831 : 48::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACTCACGACTCTCCCGTGTGGACAGGCTGAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170553 : 49::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987364 : 49::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215832 : 49::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCACGACTCTCCCGTGTGGACAGGCTGATC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170554 : 50::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987365 : 50::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215833 : 50::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCACGACTCTCCCGTGTGGACAGGCTGATCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170555 : 51::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987366 : 51::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215834 : 51::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CACGACTCTCCCGTGTGGACAGGCTGATCTC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170556 : 52::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987367 : 52::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215835 : 52::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACGACTCTCCCGTGTGGACAGGCTGATCTCG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170557 : 53::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987368 : 53::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215836 : 53::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGACTCTCCCGTGTGGACAGGCTGATCTCGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170558 : 54::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987369 : 54::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215837 : 54::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GACTCTCCCGTGTGGACAGGCTGATCTCGAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170559 : 55::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987370 : 55::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215838 : 55::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACTCTCCCGTGTGGACAGGCTGATCTCGACA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170560 : 56::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987371 : 56::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215839 : 56::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCTCCCGTGTGGACAGGCTGATCTCGACAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170561 : 57::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987372 : 57::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215840 : 57::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCTCCCGTGTGGACAGGCTGATCTCGACATC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170562 : 58::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987373 : 58::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215841 : 58::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCCCGTGTGGACAGGCTGATCTCGACATCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170563 : 59::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987374 : 59::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215842 : 59::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCCGTGTGGACAGGCTGATCTCGACATCCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170564 : 60::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987375 : 60::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215843 : 60::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCCGTGTGGACAGGCTGATCTCGACATCCTT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170565 : 61::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987376 : 61::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215844 : 61::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCGTGTGGACAGGCTGATCTCGACATCCTTA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170566 : 62::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987377 : 62::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215845 : 62::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGTGTGGACAGGCTGATCTCGACATCCTTAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170567 : 63::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987378 : 63::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215846 : 63::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTGTGGACAGGCTGATCTCGACATCCTTATC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170568 : 64::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987379 : 64::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215847 : 64::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGTGGACAGGCTGATCTCGACATCCTTATCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170569 : 65::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987380 : 65::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215848 : 65::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTGGACAGGCTGATCTCGACATCCTTATCCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170570 : 66::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987381 : 66::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215849 : 66::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGGACAGGCTGATCTCGACATCCTTATCCAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170571 : 67::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987382 : 67::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215850 : 67::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGACAGGCTGATCTCGACATCCTTATCCAAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170572 : 68::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987383 : 68::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215851 : 68::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GACAGGCTGATCTCGACATCCTTATCCAACA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170573 : 69::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987384 : 69::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215852 : 69::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACAGGCTGATCTCGACATCCTTATCCAACAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170574 : 70::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987385 : 70::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215853 : 70::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGGCTGATCTCGACATCCTTATCCAACAGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170575 : 71::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987386 : 71::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215854 : 71::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGGCTGATCTCGACATCCTTATCCAACAGAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170576 : 72::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987387 : 72::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215855 : 72::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGCTGATCTCGACATCCTTATCCAACAGACG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170577 : 73::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987388 : 73::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215856 : 73::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCTGATCTCGACATCCTTATCCAACAGACGG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170578 : 74::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987389 : 74::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215857 : 74::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTGATCTCGACATCCTTATCCAACAGACGGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170579 : 75::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987390 : 75::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215858 : 75::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGATCTCGACATCCTTATCCAACAGACGGAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170580 : 76::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987391 : 76::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215859 : 76::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GATCTCGACATCCTTATCCAACAGACGGAAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170581 : 77::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987392 : 77::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215860 : 77::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATCTCGACATCCTTATCCAACAGACGGAAGG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170582 : 78::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987393 : 78::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215861 : 78::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCTCGACATCCTTATCCAACAGACGGAAGGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170583 : 79::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987394 : 79::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215862 : 79::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCGACATCCTTATCCAACAGACGGAAGGCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170584 : 80::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987395 : 80::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215863 : 80::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCGACATCCTTATCCAACAGACGGAAGGCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170585 : 81::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987396 : 81::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215864 : 81::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGACATCCTTATCCAACAGACGGAAGGCAGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170586 : 82::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987397 : 82::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215865 : 82::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GACATCCTTATCCAACAGACGGAAGGCAGTA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170587 : 83::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987398 : 83::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215866 : 83::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACATCCTTATCCAACAGACGGAAGGCAGTAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170588 : 84::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987399 : 84::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215867 : 84::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CATCCTTATCCAACAGACGGAAGGCAGTAAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170589 : 85::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987400 : 85::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215868 : 85::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATCCTTATCCAACAGACGGAAGGCAGTAATA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170590 : 86::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987401 : 86::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215869 : 86::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCTTATCCAACAGACGGAAGGCAGTAATAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170591 : 87::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987402 : 87::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215870 : 87::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCTTATCCAACAGACGGAAGGCAGTAATAAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170592 : 88::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987403 : 88::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215871 : 88::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTTATCCAACAGACGGAAGGCAGTAATAAGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170593 : 89::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987404 : 89::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215872 : 89::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTATCCAACAGACGGAAGGCAGTAATAAGCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170594 : 90::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987405 : 90::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215873 : 90::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TATCCAACAGACGGAAGGCAGTAATAAGCTG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170595 : 91::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987406 : 91::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215874 : 91::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATCCAACAGACGGAAGGCAGTAATAAGCTGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170596 : 92::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987407 : 92::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215875 : 92::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCAACAGACGGAAGGCAGTAATAAGCTGTA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170597 : 93::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987408 : 93::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215876 : 93::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCAACAGACGGAAGGCAGTAATAAGCTGTAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170598 : 94::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987409 : 94::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215877 : 94::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAACAGACGGAAGGCAGTAATAAGCTGTACC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170599 : 95::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987410 : 95::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215878 : 95::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AACAGACGGAAGGCAGTAATAAGCTGTACCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170600 : 96::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987411 : 96::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215879 : 96::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACAGACGGAAGGCAGTAATAAGCTGTACCAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170601 : 97::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987412 : 97::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215880 : 97::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGACGGAAGGCAGTAATAAGCTGTACCATA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170602 : 98::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987413 : 98::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215881 : 98::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGACGGAAGGCAGTAATAAGCTGTACCATAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170603 : 99::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987414 : 99::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215882 : 99::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GACGGAAGGCAGTAATAAGCTGTACCATACC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170604 : 100::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987415 : 100::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215883 : 100::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACGGAAGGCAGTAATAAGCTGTACCATACCG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170605 : 101::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987416 : 101::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215884 : 101::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGGAAGGCAGTAATAAGCTGTACCATACCGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170606 : 102::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987417 : 102::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215885 : 102::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGAAGGCAGTAATAAGCTGTACCATACCGAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170607 : 103::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987418 : 103::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215886 : 103::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GAAGGCAGTAATAAGCTGTACCATACCGACA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170608 : 104::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987419 : 104::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215887 : 104::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAGGCAGTAATAAGCTGTACCATACCGACAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170609 : 105::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987420 : 105::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215888 : 105::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGGCAGTAATAAGCTGTACCATACCGACATC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170610 : 106::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987421 : 106::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215889 : 106::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGCAGTAATAAGCTGTACCATACCGACATCG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987422 : 107::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215890 : 107::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCAGTAATAAGCTGTACCATACCGACATCGT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987423 : 108::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215891 : 108::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGTAATAAGCTGTACCATACCGACATCGTC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987424 : 109::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215892 : 109::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGTAATAAGCTGTACCATACCGACATCGTCA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987425 : 110::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215893 : 110::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTAATAAGCTGTACCATACCGACATCGTCAA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987426 : 111::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215894 : 111::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TAATAAGCTGTACCATACCGACATCGTCAAT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987427 : 112::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215895 : 112::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AATAAGCTGTACCATACCGACATCGTCAATA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987428 : 113::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215896 : 113::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATAAGCTGTACCATACCGACATCGTCAATAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987429 : 114::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215897 : 114::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TAAGCTGTACCATACCGACATCGTCAATAGG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987430 : 115::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215898 : 115::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAGCTGTACCATACCGACATCGTCAATAGGA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987431 : 116::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215899 : 116::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGCTGTACCATACCGACATCGTCAATAGGAT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987432 : 117::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215900 : 117::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCTGTACCATACCGACATCGTCAATAGGATC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987433 : 118::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215901 : 118::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTGTACCATACCGACATCGTCAATAGGATCT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987434 : 119::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215902 : 119::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGTACCATACCGACATCGTCAATAGGATCTT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987435 : 120::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215903 : 120::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTACCATACCGACATCGTCAATAGGATCTTT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987436 : 121::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215904 : 121::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TACCATACCGACATCGTCAATAGGATCTTTA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987437 : 122::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215905 : 122::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACCATACCGACATCGTCAATAGGATCTTTAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987438 : 123::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215906 : 123::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCATACCGACATCGTCAATAGGATCTTTAGG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987439 : 124::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215907 : 124::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CATACCGACATCGTCAATAGGATCTTTAGGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987440 : 125::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215908 : 125::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATACCGACATCGTCAATAGGATCTTTAGGCT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987441 : 126::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215909 : 126::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TACCGACATCGTCAATAGGATCTTTAGGCTC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987442 : 127::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215910 : 127::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACCGACATCGTCAATAGGATCTTTAGGCTCC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987443 : 128::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215911 : 128::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCGACATCGTCAATAGGATCTTTAGGCTCCC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987444 : 129::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215912 : 129::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGACATCGTCAATAGGATCTTTAGGCTCCCA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987445 : 130::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215913 : 130::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GACATCGTCAATAGGATCTTTAGGCTCCCAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987446 : 131::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215914 : 131::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACATCGTCAATAGGATCTTTAGGCTCCCAGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987447 : 132::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215915 : 132::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CATCGTCAATAGGATCTTTAGGCTCCCAGCC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987448 : 133::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215916 : 133::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATCGTCAATAGGATCTTTAGGCTCCCAGCCG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987449 : 134::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215917 : 134::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCGTCAATAGGATCTTTAGGCTCCCAGCCGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987450 : 135::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215918 : 135::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGTCAATAGGATCTTTAGGCTCCCAGCCGCC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987451 : 136::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215919 : 136::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTCAATAGGATCTTTAGGCTCCCAGCCGCCC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987452 : 137::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215920 : 137::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCAATAGGATCTTTAGGCTCCCAGCCGCCCG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987453 : 138::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215921 : 138::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAATAGGATCTTTAGGCTCCCAGCCGCCCGT  len: 2   descriptor: >GF8803K02F043C
+3572 : -987454 : 139::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215922 : 139::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AATAGGATCTTTAGGCTCCCAGCCGCCCGTG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987455 : 140::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215923 : 140::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATAGGATCTTTAGGCTCCCAGCCGCCCGTGG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987456 : 141::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215924 : 141::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TAGGATCTTTAGGCTCCCAGCCGCCCGTGGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987457 : 142::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215925 : 142::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGGATCTTTAGGCTCCCAGCCGCCCGTGGCA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987458 : 143::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215926 : 143::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGATCTTTAGGCTCCCAGCCGCCCGTGGCAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987459 : 144::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215927 : 144::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GATCTTTAGGCTCCCAGCCGCCCGTGGCAGG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987460 : 145::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215928 : 145::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATCTTTAGGCTCCCAGCCGCCCGTGGCAGGA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987461 : 146::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215929 : 146::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCTTTAGGCTCCCAGCCGCCCGTGGCAGGAC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987462 : 147::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215930 : 147::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTTTAGGCTCCCAGCCGCCCGTGGCAGGACG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987463 : 148::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215931 : 148::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTTAGGCTCCCAGCCGCCCGTGGCAGGACGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987464 : 149::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215932 : 149::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTAGGCTCCCAGCCGCCCGTGGCAGGACGCA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987465 : 150::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215933 : 150::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TAGGCTCCCAGCCGCCCGTGGCAGGACGCAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987466 : 151::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215934 : 151::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGGCTCCCAGCCGCCCGTGGCAGGACGCAGA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987467 : 152::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215935 : 152::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGCTCCCAGCCGCCCGTGGCAGGACGCAGAC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987468 : 153::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215936 : 153::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCTCCCAGCCGCCCGTGGCAGGACGCAGACG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987469 : 154::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215937 : 154::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCCCAGCCGCCCGTGGCAGGACGCAGACGA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987470 : 155::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215938 : 155::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCCAGCCGCCCGTGGCAGGACGCAGACGAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987471 : 156::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215939 : 156::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCCAGCCGCCCGTGGCAGGACGCAGACGAGG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987472 : 157::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215940 : 157::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCAGCCGCCCGTGGCAGGACGCAGACGAGGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987473 : 158::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215941 : 158::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGCCGCCCGTGGCAGGACGCAGACGAGGCA  len: 2   descriptor: >GF8803K02F043C
+3572 : -987474 : 159::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215942 : 159::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGCCGCCCGTGGCAGGACGCAGACGAGGCAG  len: 2   descriptor: >GF8803K02F043C
+3572 : -987475 : 160::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215943 : 160::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCCGCCCGTGGCAGGACGCAGACGAGGCAGC  len: 2   descriptor: >GF8803K02F043C
+3572 : -987476 : 161::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215944 : 161::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCGCCCGTGGCAGGACGCAGACGAGGCAGCG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170666 : 162::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987477 : 162::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215945 : 162::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGCCCGTGGCAGGACGCAGACGAGGCAGCGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170667 : 163::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987478 : 163::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215946 : 163::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCCCGTGGCAGGACGCAGACGAGGCAGCGAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170668 : 164::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987479 : 164::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215947 : 164::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCCGTGGCAGGACGCAGACGAGGCAGCGAGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170669 : 165::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987480 : 165::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215948 : 165::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCGTGGCAGGACGCAGACGAGGCAGCGAGAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170670 : 166::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987481 : 166::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215949 : 166::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGTGGCAGGACGCAGACGAGGCAGCGAGATG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170671 : 167::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987482 : 167::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215950 : 167::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTGGCAGGACGCAGACGAGGCAGCGAGATGG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170672 : 168::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987483 : 168::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215951 : 168::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGGCAGGACGCAGACGAGGCAGCGAGATGGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170673 : 169::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987484 : 169::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215952 : 169::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGCAGGACGCAGACGAGGCAGCGAGATGGAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170674 : 170::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987485 : 170::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215953 : 170::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCAGGACGCAGACGAGGCAGCGAGATGGAAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170675 : 171::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987486 : 171::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215954 : 171::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGGACGCAGACGAGGCAGCGAGATGGAAAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170676 : 172::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987487 : 172::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215955 : 172::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAAACTTGCTCTTCCAATACGTCTGTTCCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170703 : 200::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987514 : 200::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215982 : 200::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAACTTGCTCTTCCAATACGTCTGTTCCAGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170704 : 201::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987515 : 201::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215983 : 201::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AACTTGCTCTTCCAATACGTCTGTTCCAGAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170705 : 202::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987516 : 202::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215984 : 202::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACTTGCTCTTCCAATACGTCTGTTCCAGATA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170706 : 203::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987517 : 203::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215985 : 203::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTTGCTCTTCCAATACGTCTGTTCCAGATAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170707 : 204::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987518 : 204::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215986 : 204::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTGCTCTTCCAATACGTCTGTTCCAGATACC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170708 : 205::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987519 : 205::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215987 : 205::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGCTCTTCCAATACGTCTGTTCCAGATACCG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170709 : 206::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987520 : 206::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215988 : 206::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCTCTTCCAATACGTCTGTTCCAGATACCGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170710 : 207::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987521 : 207::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215989 : 207::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTCTTCCAATACGTCTGTTCCAGATACCGCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170711 : 208::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987522 : 208::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215990 : 208::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCTTCCAATACGTCTGTTCCAGATACCGCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170712 : 209::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987523 : 209::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215991 : 209::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTTCCAATACGTCTGTTCCAGATACCGCAGG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170713 : 210::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987524 : 210::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215992 : 210::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTCCAATACGTCTGTTCCAGATACCGCAGGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170714 : 211::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987525 : 211::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215993 : 211::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCAATACGTCTGTTCCAGATACCGCAGGTG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170715 : 212::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987526 : 212::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215994 : 212::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCAATACGTCTGTTCCAGATACCGCAGGTGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170716 : 213::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987527 : 213::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215995 : 213::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAATACGTCTGTTCCAGATACCGCAGGTGCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170717 : 214::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987528 : 214::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215996 : 214::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AATACGTCTGTTCCAGATACCGCAGGTGCAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170718 : 215::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987529 : 215::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215997 : 215::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATACGTCTGTTCCAGATACCGCAGGTGCAAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170719 : 216::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987530 : 216::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215998 : 216::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TACGTCTGTTCCAGATACCGCAGGTGCAAAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170720 : 217::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987531 : 217::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2215999 : 217::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACGTCTGTTCCAGATACCGCAGGTGCAAAGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170721 : 218::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987532 : 218::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216000 : 218::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGTCTGTTCCAGATACCGCAGGTGCAAAGCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170722 : 219::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987533 : 219::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216001 : 219::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTCTGTTCCAGATACCGCAGGTGCAAAGCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170723 : 220::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987534 : 220::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216002 : 220::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCTGTTCCAGATACCGCAGGTGCAAAGCAGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170724 : 221::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987535 : 221::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216003 : 221::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CTGTTCCAGATACCGCAGGTGCAAAGCAGTG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170725 : 222::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987536 : 222::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216004 : 222::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGTTCCAGATACCGCAGGTGCAAAGCAGTGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170726 : 223::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987537 : 223::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216005 : 223::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTTCCAGATACCGCAGGTGCAAAGCAGTGAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170727 : 224::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987538 : 224::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216006 : 224::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TTCCAGATACCGCAGGTGCAAAGCAGTGAAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170728 : 225::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987539 : 225::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216007 : 225::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCAGATACCGCAGGTGCAAAGCAGTGAAAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170729 : 226::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987540 : 226::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216008 : 226::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCAGATACCGCAGGTGCAAAGCAGTGAAAAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170730 : 227::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987541 : 227::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216009 : 227::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGATACCGCAGGTGCAAAGCAGTGAAAACG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170731 : 228::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987542 : 228::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216010 : 228::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGATACCGCAGGTGCAAAGCAGTGAAAACGG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170732 : 229::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987543 : 229::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216011 : 229::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GATACCGCAGGTGCAAAGCAGTGAAAACGGA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170733 : 230::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987544 : 230::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216012 : 230::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ATACCGCAGGTGCAAAGCAGTGAAAACGGAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170734 : 231::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987545 : 231::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216013 : 231::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TACCGCAGGTGCAAAGCAGTGAAAACGGAGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170735 : 232::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987546 : 232::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216014 : 232::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACCGCAGGTGCAAAGCAGTGAAAACGGAGTC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170736 : 233::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987547 : 233::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216015 : 233::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCGCAGGTGCAAAGCAGTGAAAACGGAGTCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170737 : 234::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987548 : 234::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216016 : 234::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGCAGGTGCAAAGCAGTGAAAACGGAGTCCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170738 : 235::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987549 : 235::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216017 : 235::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCAGGTGCAAAGCAGTGAAAACGGAGTCCAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170739 : 236::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987550 : 236::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216018 : 236::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGGTGCAAAGCAGTGAAAACGGAGTCCACA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170740 : 237::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987551 : 237::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216019 : 237::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGGTGCAAAGCAGTGAAAACGGAGTCCACAC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170741 : 238::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987552 : 238::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216020 : 238::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGTGCAAAGCAGTGAAAACGGAGTCCACACG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170742 : 239::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987553 : 239::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216021 : 239::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTGCAAAGCAGTGAAAACGGAGTCCACACGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170743 : 240::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987554 : 240::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216022 : 240::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGCAAAGCAGTGAAAACGGAGTCCACACGCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170744 : 241::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987555 : 241::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216023 : 241::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCAAAGCAGTGAAAACGGAGTCCACACGCCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170745 : 242::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987556 : 242::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216024 : 242::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAAAGCAGTGAAAACGGAGTCCACACGCCAA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170746 : 243::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987557 : 243::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216025 : 243::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAAGCAGTGAAAACGGAGTCCACACGCCAAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170747 : 244::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987558 : 244::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216026 : 244::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAGCAGTGAAAACGGAGTCCACACGCCAATT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170748 : 245::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987559 : 245::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216027 : 245::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGCAGTGAAAACGGAGTCCACACGCCAATTC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170749 : 246::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987560 : 246::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216028 : 246::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCAGTGAAAACGGAGTCCACACGCCAATTCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170750 : 247::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987561 : 247::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216029 : 247::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGTGAAAACGGAGTCCACACGCCAATTCTC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170751 : 248::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987562 : 248::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216030 : 248::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGTGAAAACGGAGTCCACACGCCAATTCTCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170752 : 249::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987563 : 249::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216031 : 249::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTGAAAACGGAGTCCACACGCCAATTCTCCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170753 : 250::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987564 : 250::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216032 : 250::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TGAAAACGGAGTCCACACGCCAATTCTCCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170754 : 251::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987565 : 251::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216033 : 251::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GAAAACGGAGTCCACACGCCAATTCTCCAGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170755 : 252::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987566 : 252::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216034 : 252::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAAACGGAGTCCACACGCCAATTCTCCAGTC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170756 : 253::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987567 : 253::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216035 : 253::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AAACGGAGTCCACACGCCAATTCTCCAGTCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170757 : 254::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987568 : 254::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216036 : 254::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AACGGAGTCCACACGCCAATTCTCCAGTCCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170758 : 255::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987569 : 255::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216037 : 255::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACGGAGTCCACACGCCAATTCTCCAGTCCCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170759 : 256::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987570 : 256::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216038 : 256::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGGAGTCCACACGCCAATTCTCCAGTCCCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170760 : 257::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987571 : 257::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216039 : 257::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GGAGTCCACACGCCAATTCTCCAGTCCCAGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170761 : 258::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987572 : 258::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216040 : 258::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GAGTCCACACGCCAATTCTCCAGTCCCAGCA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170762 : 259::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987573 : 259::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216041 : 259::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: AGTCCACACGCCAATTCTCCAGTCCCAGCAG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170763 : 260::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987574 : 260::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216042 : 260::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GTCCACACGCCAATTCTCCAGTCCCAGCAGT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170764 : 261::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987575 : 261::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216043 : 261::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: TCCACACGCCAATTCTCCAGTCCCAGCAGTG  len: 3   descriptor: >GF8803K02F043C
+3571 : 170765 : 262::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987576 : 262::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216044 : 262::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CCACACGCCAATTCTCCAGTCCCAGCAGTGC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170766 : 263::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987577 : 263::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216045 : 263::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CACACGCCAATTCTCCAGTCCCAGCAGTGCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170767 : 264::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987578 : 264::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216046 : 264::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACACGCCAATTCTCCAGTCCCAGCAGTGCCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170768 : 265::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987579 : 265::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216047 : 265::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CACGCCAATTCTCCAGTCCCAGCAGTGCCCC  len: 3   descriptor: >GF8803K02F043C
+3571 : 170769 : 266::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987580 : 266::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216048 : 266::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: ACGCCAATTCTCCAGTCCCAGCAGTGCCCCT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170770 : 267::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987581 : 267::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216049 : 267::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CGCCAATTCTCCAGTCCCAGCAGTGCCCCTA  len: 3   descriptor: >GF8803K02F043C
+3571 : 170771 : 268::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987582 : 268::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216050 : 268::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: GCCAATTCTCCAGTCCCAGCAGTGCCCCTAT  len: 3   descriptor: >GF8803K02F043C
+3571 : 170772 : 269::Porphyromonas_gingivalis_ATCC_33277_uid58879 : NC_010729.fna
+3572 : -987583 : 269::Porphyromonas_gingivalis_TDC60_uid67407 : NC_015571.fna
+3573 : 2216051 : 269::Porphyromonas_gingivalis_W83_uid57641 : NC_002950.fna
+mer: CAGCAGTACATTCCGTACGATTCGCGATAGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627638 : 30::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGCAGTACATTCCGTACGATTCGCGATAGTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627639 : 31::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCAGTACATTCCGTACGATTCGCGATAGTTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627640 : 32::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAGTACATTCCGTACGATTCGCGATAGTTTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627641 : 33::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGTACATTCCGTACGATTCGCGATAGTTTTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627642 : 34::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTACATTCCGTACGATTCGCGATAGTTTTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627643 : 35::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TACATTCCGTACGATTCGCGATAGTTTTTCA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627644 : 36::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACATTCCGTACGATTCGCGATAGTTTTTCAT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627645 : 37::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CATTCCGTACGATTCGCGATAGTTTTTCATT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627646 : 38::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ATTCCGTACGATTCGCGATAGTTTTTCATTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627647 : 39::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTCCGTACGATTCGCGATAGTTTTTCATTAT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627648 : 40::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCCGTACGATTCGCGATAGTTTTTCATTATC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627649 : 41::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CCGTACGATTCGCGATAGTTTTTCATTATCC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627650 : 42::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CGTACGATTCGCGATAGTTTTTCATTATCCA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627651 : 43::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTACGATTCGCGATAGTTTTTCATTATCCAG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627652 : 44::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TACGATTCGCGATAGTTTTTCATTATCCAGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627653 : 45::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACGATTCGCGATAGTTTTTCATTATCCAGTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627654 : 46::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTTGCAACAGCGTATGGAGAACGTGGATAGA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627695 : 87::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTGCAACAGCGTATGGAGAACGTGGATAGAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627696 : 88::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGCAACAGCGTATGGAGAACGTGGATAGAAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627697 : 89::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCAACAGCGTATGGAGAACGTGGATAGAAAG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627698 : 90::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAACAGCGTATGGAGAACGTGGATAGAAAGG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627699 : 91::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AACAGCGTATGGAGAACGTGGATAGAAAGGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627700 : 92::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACAGCGTATGGAGAACGTGGATAGAAAGGTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627701 : 93::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAGCGTATGGAGAACGTGGATAGAAAGGTGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627702 : 94::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGCGTATGGAGAACGTGGATAGAAAGGTGTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627703 : 95::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCGTATGGAGAACGTGGATAGAAAGGTGTTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627704 : 96::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CGTATGGAGAACGTGGATAGAAAGGTGTTGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627705 : 97::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTATGGAGAACGTGGATAGAAAGGTGTTGTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627706 : 98::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TATGGAGAACGTGGATAGAAAGGTGTTGTTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627707 : 99::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ATGGAGAACGTGGATAGAAAGGTGTTGTTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627708 : 100::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGGAGAACGTGGATAGAAAGGTGTTGTTTCC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627709 : 101::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GGAGAACGTGGATAGAAAGGTGTTGTTTCCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627710 : 102::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GAGAACGTGGATAGAAAGGTGTTGTTTCCTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627711 : 103::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGAACGTGGATAGAAAGGTGTTGTTTCCTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627712 : 104::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GAACGTGGATAGAAAGGTGTTGTTTCCTTCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627713 : 105::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AACGTGGATAGAAAGGTGTTGTTTCCTTCTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627714 : 106::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACGTGGATAGAAAGGTGTTGTTTCCTTCTGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627715 : 107::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CGTGGATAGAAAGGTGTTGTTTCCTTCTGTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627716 : 108::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTGGATAGAAAGGTGTTGTTTCCTTCTGTGG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627717 : 109::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGGATAGAAAGGTGTTGTTTCCTTCTGTGGC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627718 : 110::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GGATAGAAAGGTGTTGTTTCCTTCTGTGGCA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627719 : 111::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GATAGAAAGGTGTTGTTTCCTTCTGTGGCAC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627720 : 112::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ATAGAAAGGTGTTGTTTCCTTCTGTGGCACT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627721 : 113::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TAGAAAGGTGTTGTTTCCTTCTGTGGCACTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627722 : 114::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGAAAGGTGTTGTTTCCTTCTGTGGCACTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627723 : 115::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GAAAGGTGTTGTTTCCTTCTGTGGCACTTCC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627724 : 116::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAAGGTGTTGTTTCCTTCTGTGGCACTTCCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627725 : 117::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAGGTGTTGTTTCCTTCTGTGGCACTTCCTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627726 : 118::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTACCAAACAGTTCTGAAGTTGATGCTTGAT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627761 : 153::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TACCAAACAGTTCTGAAGTTGATGCTTGATA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627762 : 154::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACCAAACAGTTCTGAAGTTGATGCTTGATAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627763 : 155::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CCAAACAGTTCTGAAGTTGATGCTTGATAAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627764 : 156::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAAACAGTTCTGAAGTTGATGCTTGATAAAT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627765 : 157::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAACAGTTCTGAAGTTGATGCTTGATAAATC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627766 : 158::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AACAGTTCTGAAGTTGATGCTTGATAAATCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627767 : 159::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACAGTTCTGAAGTTGATGCTTGATAAATCTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627768 : 160::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAGTTCTGAAGTTGATGCTTGATAAATCTTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627769 : 161::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGTTCTGAAGTTGATGCTTGATAAATCTTAC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627770 : 162::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTTCTGAAGTTGATGCTTGATAAATCTTACA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627771 : 163::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTCTGAAGTTGATGCTTGATAAATCTTACAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627772 : 164::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCTGAAGTTGATGCTTGATAAATCTTACAAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627773 : 165::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CTGAAGTTGATGCTTGATAAATCTTACAAAC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627774 : 166::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGAAGTTGATGCTTGATAAATCTTACAAACC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627775 : 167::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GAAGTTGATGCTTGATAAATCTTACAAACCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627776 : 168::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAGTTGATGCTTGATAAATCTTACAAACCTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627777 : 169::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACATCAAAGCTGACTTTAACGTGGCTTTGTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627884 : 276::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CATCAAAGCTGACTTTAACGTGGCTTTGTGC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627885 : 277::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ATCAAAGCTGACTTTAACGTGGCTTTGTGCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627886 : 278::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCAAAGCTGACTTTAACGTGGCTTTGTGCTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627887 : 279::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAAAGCTGACTTTAACGTGGCTTTGTGCTGC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627888 : 280::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAAGCTGACTTTAACGTGGCTTTGTGCTGCA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627889 : 281::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AAGCTGACTTTAACGTGGCTTTGTGCTGCAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627890 : 282::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AGCTGACTTTAACGTGGCTTTGTGCTGCAAG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627891 : 283::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCTGACTTTAACGTGGCTTTGTGCTGCAAGG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627892 : 284::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CTGACTTTAACGTGGCTTTGTGCTGCAAGGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627893 : 285::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGACTTTAACGTGGCTTTGTGCTGCAAGGTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627894 : 286::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GACTTTAACGTGGCTTTGTGCTGCAAGGTTG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627895 : 287::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACTTTAACGTGGCTTTGTGCTGCAAGGTTGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627896 : 288::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CTTTAACGTGGCTTTGTGCTGCAAGGTTGTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627897 : 289::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTTAACGTGGCTTTGTGCTGCAAGGTTGTAG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627898 : 290::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTAACGTGGCTTTGTGCTGCAAGGTTGTAGA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627899 : 291::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TAACGTGGCTTTGTGCTGCAAGGTTGTAGAT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627900 : 292::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: AACGTGGCTTTGTGCTGCAAGGTTGTAGATT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627901 : 293::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: ACGTGGCTTTGTGCTGCAAGGTTGTAGATTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627902 : 294::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CGTGGCTTTGTGCTGCAAGGTTGTAGATTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627903 : 295::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTGGCTTTGTGCTGCAAGGTTGTAGATTTCG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627904 : 296::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGGCTTTGTGCTGCAAGGTTGTAGATTTCGG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627905 : 297::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GGCTTTGTGCTGCAAGGTTGTAGATTTCGGT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627906 : 298::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCTTTGTGCTGCAAGGTTGTAGATTTCGGTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627907 : 299::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CTTTGTGCTGCAAGGTTGTAGATTTCGGTAG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627908 : 300::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTTGTGCTGCAAGGTTGTAGATTTCGGTAGG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627909 : 301::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TTGTGCTGCAAGGTTGTAGATTTCGGTAGGC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627910 : 302::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGTGCTGCAAGGTTGTAGATTTCGGTAGGCT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627911 : 303::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTGCTGCAAGGTTGTAGATTTCGGTAGGCTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627912 : 304::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGCTGCAAGGTTGTAGATTTCGGTAGGCTTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627913 : 305::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCTGCAAGGTTGTAGATTTCGGTAGGCTTTA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627914 : 306::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CTGCAAGGTTGTAGATTTCGGTAGGCTTTAC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627915 : 307::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TGCAAGGTTGTAGATTTCGGTAGGCTTTACT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627916 : 308::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GCAAGGTTGTAGATTTCGGTAGGCTTTACTT  len: 1   descriptor: >GF8803K02F044N
+3580 : -627917 : 309::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CAAGGTTGTAGATTTCGGTAGGCTTTACTTC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627918 : 310::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCGGTCATATCTGCCCAATGCAGATTAATCA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627977 : 369::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: CGGTCATATCTGCCCAATGCAGATTAATCAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627978 : 370::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GGTCATATCTGCCCAATGCAGATTAATCAAA  len: 1   descriptor: >GF8803K02F044N
+3580 : -627979 : 371::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: GTCATATCTGCCCAATGCAGATTAATCAAAC  len: 1   descriptor: >GF8803K02F044N
+3580 : -627980 : 372::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCATATCTGCCCAATGCAGATTAATCAAACG  len: 1   descriptor: >GF8803K02F044N
+3580 : -627981 : 373::Prevotella_intermedia_17_uid163151 : NC_017861.fna
+mer: TCCGCAACGAGGCCGACCAGAAGGCCCGCGA  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812474 : 30::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CCGCAACGAGGCCGACCAGAAGGCCCGCGAG  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812475 : 31::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CGCAACGAGGCCGACCAGAAGGCCCGCGAGG  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812476 : 32::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: GCAACGAGGCCGACCAGAAGGCCCGCGAGGT  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812477 : 33::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CAACGAGGCCGACCAGAAGGCCCGCGAGGTC  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812478 : 34::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: AACGAGGCCGACCAGAAGGCCCGCGAGGTCA  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812479 : 35::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: ACGAGGCCGACCAGAAGGCCCGCGAGGTCAT  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812480 : 36::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CGAGGCCGACCAGAAGGCCCGCGAGGTCATT  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812481 : 37::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: GAGGCCGACCAGAAGGCCCGCGAGGTCATTC  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812482 : 38::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: AGGCCGACCAGAAGGCCCGCGAGGTCATTCG  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812483 : 39::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: GGCCGACCAGAAGGCCCGCGAGGTCATTCGC  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812484 : 40::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: GCCGACCAGAAGGCCCGCGAGGTCATTCGCC  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812485 : 41::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CCGACCAGAAGGCCCGCGAGGTCATTCGCCA  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812486 : 42::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: CGACCAGAAGGCCCGCGAGGTCATTCGCCAG  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812487 : 43::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: GACCAGAAGGCCCGCGAGGTCATTCGCCAGG  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812488 : 44::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: ACCAGAAGGCCCGCGAGGTCATTCGCCAGGC  len: 1   descriptor: >GF8803K02F04GS
+3421 : -812489 : 45::Olsenella_uli_DSM_7084_uid51367 : NC_014363.fna
+mer: TGCTCCTCGCTAATCCCTGCTTCTGCCAAGG  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076371 : 57::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCTCCTCGCTAATCCCTGCTTCTGCCAAGGC  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076372 : 58::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ACCTCCACATGGTGACGGCTGGCCACTTCCG  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790044 : 112::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740144 : 112::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CCTCCACATGGTGACGGCTGGCCACTTCCGG  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790045 : 113::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740145 : 113::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CTCCACATGGTGACGGCTGGCCACTTCCGGT  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790046 : 114::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740146 : 114::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TCCACATGGTGACGGCTGGCCACTTCCGGTA  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790047 : 115::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740147 : 115::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CCACATGGTGACGGCTGGCCACTTCCGGTAC  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790048 : 116::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740148 : 116::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TGACGGCTGGCCACTTCCGGTACCACTCCGC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873696 : 124::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GACGGCTGGCCACTTCCGGTACCACTCCGCC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873697 : 125::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: ACGGCTGGCCACTTCCGGTACCACTCCGCCA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873698 : 126::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CGGCTGGCCACTTCCGGTACCACTCCGCCAA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873699 : 127::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GGCTGGCCACTTCCGGTACCACTCCGCCAAA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873700 : 128::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GCTGGCCACTTCCGGTACCACTCCGCCAAAA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873701 : 129::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CTGGCCACTTCCGGTACCACTCCGCCAAAAC  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956431 : 130::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873702 : 130::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TGGCCACTTCCGGTACCACTCCGCCAAAACG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956432 : 131::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873703 : 131::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GGCCACTTCCGGTACCACTCCGCCAAAACGC  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956433 : 132::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873704 : 132::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GCCACTTCCGGTACCACTCCGCCAAAACGCT  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956434 : 133::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873705 : 133::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CCACTTCCGGTACCACTCCGCCAAAACGCTT  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956435 : 134::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873706 : 134::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CACTTCCGGTACCACTCCGCCAAAACGCTTG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956436 : 135::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873707 : 135::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: ACTTCCGGTACCACTCCGCCAAAACGCTTGT  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956437 : 136::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873708 : 136::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CTTCCGGTACCACTCCGCCAAAACGCTTGTG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956438 : 137::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873709 : 137::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TTCCGGTACCACTCCGCCAAAACGCTTGTGG  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873710 : 138::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TCCGGTACCACTCCGCCAAAACGCTTGTGGC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873711 : 139::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CCGGTACCACTCCGCCAAAACGCTTGTGGCT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873712 : 140::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CGGTACCACTCCGCCAAAACGCTTGTGGCTC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1873713 : 141::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GGTACCACTCCGCCAAAACGCTTGTGGCTCT  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873714 : 142::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076455 : 142::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GTACCACTCCGCCAAAACGCTTGTGGCTCTC  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873715 : 143::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076456 : 143::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TACCACTCCGCCAAAACGCTTGTGGCTCTCA  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873716 : 144::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076457 : 144::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ACCACTCCGCCAAAACGCTTGTGGCTCTCAA  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873717 : 145::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076458 : 145::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCACTCCGCCAAAACGCTTGTGGCTCTCAAT  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873718 : 146::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076459 : 146::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CACTCCGCCAAAACGCTTGTGGCTCTCAATC  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1873719 : 147::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076460 : 147::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ACTCCGCCAAAACGCTTGTGGCTCTCAATCT  len: 4   descriptor: >GF8803K02F04LR
+4575 : -1790080 : 148::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740180 : 148::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4587 : -1873720 : 148::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076461 : 148::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CTCCGCCAAAACGCTTGTGGCTCTCAATCTG  len: 4   descriptor: >GF8803K02F04LR
+4575 : -1790081 : 149::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740181 : 149::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4587 : -1873721 : 149::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076462 : 149::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCCGCCAAAACGCTTGTGGCTCTCAATCTGG  len: 4   descriptor: >GF8803K02F04LR
+4575 : -1790082 : 150::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740182 : 150::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4587 : -1873722 : 150::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076463 : 150::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCGCCAAAACGCTTGTGGCTCTCAATCTGGC  len: 4   descriptor: >GF8803K02F04LR
+4575 : -1790083 : 151::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740183 : 151::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4587 : -1873723 : 151::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076464 : 151::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CGCCAAAACGCTTGTGGCTCTCAATCTGGCT  len: 4   descriptor: >GF8803K02F04LR
+4575 : -1790084 : 152::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740184 : 152::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4587 : -1873724 : 152::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076465 : 152::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCCAAAACGCTTGTGGCTCTCAATCTGGCTG  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790085 : 153::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740185 : 153::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076466 : 153::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCAAAACGCTTGTGGCTCTCAATCTGGCTGG  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790086 : 154::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740186 : 154::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076467 : 154::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CAAAACGCTTGTGGCTCTCAATCTGGCTGGC  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790087 : 155::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740187 : 155::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076468 : 155::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AAAACGCTTGTGGCTCTCAATCTGGCTGGCA  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790088 : 156::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740188 : 156::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076469 : 156::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AAACGCTTGTGGCTCTCAATCTGGCTGGCAA  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790089 : 157::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740189 : 157::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076470 : 157::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AACGCTTGTGGCTCTCAATCTGGCTGGCAAT  len: 3   descriptor: >GF8803K02F04LR
+4575 : -1790090 : 158::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740190 : 158::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+4643 : -2076471 : 158::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ACGCTTGTGGCTCTCAATCTGGCTGGCAATG  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790091 : 159::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740191 : 159::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CGCTTGTGGCTCTCAATCTGGCTGGCAATGA  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790092 : 160::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740192 : 160::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: GCTTGTGGCTCTCAATCTGGCTGGCAATGAC  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790093 : 161::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740193 : 161::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CTTGTGGCTCTCAATCTGGCTGGCAATGACA  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790094 : 162::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740194 : 162::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TTGTGGCTCTCAATCTGGCTGGCAATGACAT  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790095 : 163::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740195 : 163::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TGTGGCTCTCAATCTGGCTGGCAATGACATT  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790096 : 164::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740196 : 164::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: GTGGCTCTCAATCTGGCTGGCAATGACATTG  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790097 : 165::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740197 : 165::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TGGCTCTCAATCTGGCTGGCAATGACATTGC  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790098 : 166::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740198 : 166::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: GGCTCTCAATCTGGCTGGCAATGACATTGCT  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790099 : 167::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740199 : 167::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: GCTCTCAATCTGGCTGGCAATGACATTGCTC  len: 2   descriptor: >GF8803K02F04LR
+4575 : -1790100 : 168::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740200 : 168::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CTCTCAATCTGGCTGGCAATGACATTGCTCA  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783326 : 169::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745629 : 169::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745877 : 169::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790101 : 169::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740201 : 169::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TCTCAATCTGGCTGGCAATGACATTGCTCAA  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783327 : 170::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745630 : 170::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745878 : 170::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790102 : 170::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740202 : 170::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CTCAATCTGGCTGGCAATGACATTGCTCAAA  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783328 : 171::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745631 : 171::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745879 : 171::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790103 : 171::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740203 : 171::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TCAATCTGGCTGGCAATGACATTGCTCAAAA  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783329 : 172::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745632 : 172::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745880 : 172::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790104 : 172::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740204 : 172::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CAATCTGGCTGGCAATGACATTGCTCAAAAG  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783330 : 173::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745633 : 173::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745881 : 173::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790105 : 173::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740205 : 173::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: AATCTGGCTGGCAATGACATTGCTCAAAAGC  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783331 : 174::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745634 : 174::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745882 : 174::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790106 : 174::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740206 : 174::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: ATCTGGCTGGCAATGACATTGCTCAAAAGCT  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783332 : 175::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745635 : 175::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745883 : 175::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790107 : 175::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740207 : 175::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TCTGGCTGGCAATGACATTGCTCAAAAGCTC  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783333 : 176::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745636 : 176::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745884 : 176::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790108 : 176::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740208 : 176::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: CTGGCTGGCAATGACATTGCTCAAAAGCTCA  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783334 : 177::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745637 : 177::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745885 : 177::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790109 : 177::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740209 : 177::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TGGCTGGCAATGACATTGCTCAAAAGCTCAG  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783335 : 178::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745638 : 178::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745886 : 178::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790110 : 178::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740210 : 178::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: GGCTGGCAATGACATTGCTCAAAAGCTCAGT  len: 5   descriptor: >GF8803K02F04LR
+4554 : -1783336 : 179::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745639 : 179::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1745887 : 179::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4575 : -1790111 : 179::Streptococcus_intermedius_B196_uid218000 : NC_022246.fna
+4577 : -1740211 : 179::Streptococcus_intermedius_JTH08_uid168614 : NC_018073.fna
+mer: TCATTCTTCAGAACCGCCACACTGGTCTCAT  len: 1   descriptor: >GF8803K02F04LR
+4588 : 1799100 : 211::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+mer: CATTCTTCAGAACCGCCACACTGGTCTCATC  len: 1   descriptor: >GF8803K02F04LR
+4588 : 1799101 : 212::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+mer: AAAATATATCTATCTTTCATGGATCTCTCTT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799151 : 264::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076575 : 264::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AAATATATCTATCTTTCATGGATCTCTCTTT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799152 : 265::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076576 : 265::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AATATATCTATCTTTCATGGATCTCTCTTTT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799153 : 266::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076577 : 266::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATATATCTATCTTTCATGGATCTCTCTTTTC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799154 : 267::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076578 : 267::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TATATCTATCTTTCATGGATCTCTCTTTTCA  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799155 : 268::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076579 : 268::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATATCTATCTTTCATGGATCTCTCTTTTCAT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799156 : 269::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076580 : 269::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TATCTATCTTTCATGGATCTCTCTTTTCATG  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799157 : 270::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076581 : 270::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATCTATCTTTCATGGATCTCTCTTTTCATGA  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799158 : 271::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076582 : 271::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCTATCTTTCATGGATCTCTCTTTTCATGAC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799159 : 272::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076583 : 272::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CTATCTTTCATGGATCTCTCTTTTCATGACA  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799160 : 273::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076584 : 273::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TATCTTTCATGGATCTCTCTTTTCATGACAA  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799161 : 274::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076585 : 274::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATCTTTCATGGATCTCTCTTTTCATGACAAT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799162 : 275::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076586 : 275::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCTTTCATGGATCTCTCTTTTCATGACAATC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799163 : 276::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076587 : 276::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CTTTCATGGATCTCTCTTTTCATGACAATCG  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799164 : 277::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076588 : 277::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TTTCATGGATCTCTCTTTTCATGACAATCGC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799165 : 278::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076589 : 278::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TTCATGGATCTCTCTTTTCATGACAATCGCA  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799166 : 279::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076590 : 279::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCATGGATCTCTCTTTTCATGACAATCGCAT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799167 : 280::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076591 : 280::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CATGGATCTCTCTTTTCATGACAATCGCATC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799168 : 281::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076592 : 281::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATGGATCTCTCTTTTCATGACAATCGCATCT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799169 : 282::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076593 : 282::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TGGATCTCTCTTTTCATGACAATCGCATCTT  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799170 : 283::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076594 : 283::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GGATCTCTCTTTTCATGACAATCGCATCTTC  len: 2   descriptor: >GF8803K02F04LR
+4588 : 1799171 : 284::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076595 : 284::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GATCTCTCTTTTCATGACAATCGCATCTTCC  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076596 : 285::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATCTCTCTTTTCATGACAATCGCATCTTCCA  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076597 : 286::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCTCTCTTTTCATGACAATCGCATCTTCCAC  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956586 : 287::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4643 : -2076598 : 287::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CTCTCTTTTCATGACAATCGCATCTTCCACC  len: 1   descriptor: >GF8803K02F04LR
+4570 : -1956587 : 288::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+mer: TCTCTTTTCATGACAATCGCATCTTCCACCG  len: 1   descriptor: >GF8803K02F04LR
+4570 : -1956588 : 289::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+mer: CTCTTTTCATGACAATCGCATCTTCCACCGG  len: 1   descriptor: >GF8803K02F04LR
+4570 : -1956589 : 290::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+mer: TTCCGCCGCGCGATTTCTTCAAATTTTTCTT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783492 : 337::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745795 : 337::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746043 : 337::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956636 : 337::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873907 : 337::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799224 : 337::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076648 : 337::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCCGCCGCGCGATTTCTTCAAATTTTTCTTT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783493 : 338::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745796 : 338::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746044 : 338::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956637 : 338::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873908 : 338::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799225 : 338::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076649 : 338::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCGCCGCGCGATTTCTTCAAATTTTTCTTTT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783494 : 339::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745797 : 339::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746045 : 339::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956638 : 339::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873909 : 339::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799226 : 339::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076650 : 339::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CGCCGCGCGATTTCTTCAAATTTTTCTTTTT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783495 : 340::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745798 : 340::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746046 : 340::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956639 : 340::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873910 : 340::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799227 : 340::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076651 : 340::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCCGCGCGATTTCTTCAAATTTTTCTTTTTT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783496 : 341::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745799 : 341::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746047 : 341::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956640 : 341::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873911 : 341::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799228 : 341::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076652 : 341::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCGCGCGATTTCTTCAAATTTTTCTTTTTTG  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783497 : 342::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745800 : 342::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746048 : 342::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956641 : 342::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873912 : 342::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799229 : 342::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076653 : 342::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CGCGCGATTTCTTCAAATTTTTCTTTTTTGT  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783498 : 343::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745801 : 343::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746049 : 343::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956642 : 343::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873913 : 343::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799230 : 343::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076654 : 343::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCGCGATTTCTTCAAATTTTTCTTTTTTGTA  len: 7   descriptor: >GF8803K02F04LR
+4554 : -1783499 : 344::Streptococcus_constellatus_pharyngis_C1050_uid218002 : NC_022238.fna
+4555 : -1745802 : 344::Streptococcus_constellatus_pharyngis_C232_uid217998 : NC_022236.fna
+4556 : -1746050 : 344::Streptococcus_constellatus_pharyngis_C818_uid218001 : NC_022245.fna
+4570 : -1956643 : 344::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873914 : 344::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799231 : 344::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076655 : 344::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CGCGATTTCTTCAAATTTTTCTTTTTTGTAA  len: 4   descriptor: >GF8803K02F04LR
+4570 : -1956644 : 345::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873915 : 345::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799232 : 345::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076656 : 345::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCGATTTCTTCAAATTTTTCTTTTTTGTAAA  len: 3   descriptor: >GF8803K02F04LR
+4587 : -1873916 : 346::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799233 : 346::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076657 : 346::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CGATTTCTTCAAATTTTTCTTTTTTGTAAAA  len: 4   descriptor: >GF8803K02F04LR
+4570 : -1956646 : 347::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873917 : 347::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799234 : 347::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076658 : 347::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GATTTCTTCAAATTTTTCTTTTTTGTAAAAT  len: 4   descriptor: >GF8803K02F04LR
+4570 : -1956647 : 348::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873918 : 348::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799235 : 348::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076659 : 348::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: ATTTCTTCAAATTTTTCTTTTTTGTAAAATA  len: 4   descriptor: >GF8803K02F04LR
+4570 : -1956648 : 349::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1873919 : 349::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799236 : 349::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+4643 : -2076660 : 349::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CAGAGCTGGCTTGTTGGACTCCCTCACTTCG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956680 : 381::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4643 : -2076692 : 381::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AGAGCTGGCTTGTTGGACTCCCTCACTTCGA  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956681 : 382::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4643 : -2076693 : 382::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GAGCTGGCTTGTTGGACTCCCTCACTTCGAG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956682 : 383::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4643 : -2076694 : 383::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: AGCTGGCTTGTTGGACTCCCTCACTTCGAGG  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956683 : 384::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4643 : -2076695 : 384::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: GCTGGCAAAAAGTCAAACAAGGCTGTCGCGA  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956729 : 431::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874000 : 431::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CTGGCAAAAAGTCAAACAAGGCTGTCGCGAT  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956730 : 432::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874001 : 432::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TGGCAAAAAGTCAAACAAGGCTGTCGCGATT  len: 2   descriptor: >GF8803K02F04LR
+4570 : -1956731 : 433::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874002 : 433::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GGCAAAAAGTCAAACAAGGCTGTCGCGATTT  len: 3   descriptor: >GF8803K02F04LR
+4570 : -1956732 : 434::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874003 : 434::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799320 : 434::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+mer: GCAAAAAGTCAAACAAGGCTGTCGCGATTTT  len: 3   descriptor: >GF8803K02F04LR
+4570 : -1956733 : 435::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874004 : 435::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799321 : 435::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+mer: CAAAAAGTCAAACAAGGCTGTCGCGATTTTC  len: 3   descriptor: >GF8803K02F04LR
+4570 : -1956734 : 436::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874005 : 436::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4588 : 1799322 : 436::Streptococcus_oralis_Uo5_uid65449 : NC_015291.fna
+mer: GTCCCTGATAGCTAGGCAATACAGCAATCTG  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076778 : 468::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: TCCCTGATAGCTAGGCAATACAGCAATCTGC  len: 1   descriptor: >GF8803K02F04LR
+4643 : -2076779 : 469::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCCTGATAGCTAGGCAATACAGCAATCTGCA  len: 3   descriptor: >GF8803K02F04LR
+4570 : -1956768 : 470::Streptococcus_gordonii_Challis_substr__CH1_uid57667 : NC_009785.fna
+4587 : -1874039 : 470::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076780 : 470::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CCTGATAGCTAGGCAATACAGCAATCTGCAG  len: 2   descriptor: >GF8803K02F04LR
+4587 : -1874040 : 471::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+4643 : -2076781 : 471::Streptococcus_sanguinis_SK36_uid58381 : NC_009009.fna
+mer: CTGATAGCTAGGCAATACAGCAATCTGCAGG  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874041 : 472::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TGATAGCTAGGCAATACAGCAATCTGCAGGA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874042 : 473::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GATAGCTAGGCAATACAGCAATCTGCAGGAC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874043 : 474::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: ATAGCTAGGCAATACAGCAATCTGCAGGACT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874044 : 475::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TAGCTAGGCAATACAGCAATCTGCAGGACTT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874045 : 476::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: AGCTAGGCAATACAGCAATCTGCAGGACTTC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874046 : 477::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GCTAGGCAATACAGCAATCTGCAGGACTTCT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874047 : 478::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CTAGGCAATACAGCAATCTGCAGGACTTCTG  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874048 : 479::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TAGGCAATACAGCAATCTGCAGGACTTCTGC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874049 : 480::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: AGGCAATACAGCAATCTGCAGGACTTCTGCT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874050 : 481::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GGCAATACAGCAATCTGCAGGACTTCTGCTT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874051 : 482::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GCAATACAGCAATCTGCAGGACTTCTGCTTC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874052 : 483::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CAATACAGCAATCTGCAGGACTTCTGCTTCA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874053 : 484::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: AATACAGCAATCTGCAGGACTTCTGCTTCAA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874054 : 485::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: ATACAGCAATCTGCAGGACTTCTGCTTCAAA  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874055 : 486::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: TACAGCAATCTGCAGGACTTCTGCTTCAAAG  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874056 : 487::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: ACAGCAATCTGCAGGACTTCTGCTTCAAAGT  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874057 : 488::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: CAGCAATCTGCAGGACTTCTGCTTCAAAGTC  len: 1   descriptor: >GF8803K02F04LR
+4587 : -1874058 : 489::Streptococcus_oligofermentans_AS_1_3089_uid201429 : NC_021175.fna
+mer: GAATTGCATCCCACAATGCTGGTGATTTTTC  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741129 : 204::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743107 : 204::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: AATTGCATCCCACAATGCTGGTGATTTTTCT  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741130 : 205::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743108 : 205::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: ATTGCATCCCACAATGCTGGTGATTTTTCTG  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741131 : 206::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743109 : 206::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: TTGCATCCCACAATGCTGGTGATTTTTCTGC  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741132 : 207::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743110 : 207::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: TGCATCCCACAATGCTGGTGATTTTTCTGCG  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741133 : 208::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743111 : 208::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: GCATCCCACAATGCTGGTGATTTTTCTGCGT  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741134 : 209::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743112 : 209::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: CATCCCACAATGCTGGTGATTTTTCTGCGTA  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741135 : 210::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743113 : 210::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: ATCCCACAATGCTGGTGATTTTTCTGCGTAT  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741136 : 211::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743114 : 211::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: TCCCACAATGCTGGTGATTTTTCTGCGTATT  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741137 : 212::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743115 : 212::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: CCCACAATGCTGGTGATTTTTCTGCGTATTT  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741138 : 213::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743116 : 213::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: CCACAATGCTGGTGATTTTTCTGCGTATTTC  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741139 : 214::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743117 : 214::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: CACAATGCTGGTGATTTTTCTGCGTATTTCA  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741140 : 215::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743118 : 215::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: ACAATGCTGGTGATTTTTCTGCGTATTTCAA  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741141 : 216::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743119 : 216::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: CAATGCTGGTGATTTTTCTGCGTATTTCAAA  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741142 : 217::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743120 : 217::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: AATGCTGGTGATTTTTCTGCGTATTTCAAAA  len: 2   descriptor: >GF8803K02F04OK
+2630 : -1741143 : 218::Lactobacillus_acidophilus_La_14_uid201479 : NC_021181.fna
+2631 : -1743121 : 218::Lactobacillus_acidophilus_NCFM_uid57685 : NC_006814.fna
+mer: GTTCAGCAGGCGCTCTTGAAGATTTTGGAAG  len: 1   descriptor: >GF8803K02F056X
+1556 : 573284 : 41::Clostridium_BNL1100_uid84307 : NC_016791.fna
+mer: TTCAGCAGGCGCTCTTGAAGATTTTGGAAGG  len: 1   descriptor: >GF8803K02F056X
+1556 : 573285 : 42::Clostridium_BNL1100_uid84307 : NC_016791.fna
+mer: TTTATCTGCGGCGGCGCCTTTGACGGCATCG  len: 1   descriptor: >GF8803K02F056X
+2205 : 2512645 : 155::Fibrella_aestuarina_uid178352 : NC_020054.fna
+mer: TTATCTGCGGCGGCGCCTTTGACGGCATCGA  len: 1   descriptor: >GF8803K02F056X
+2205 : 2512646 : 156::Fibrella_aestuarina_uid178352 : NC_020054.fna
+mer: TATCTGCGGCGGCGCCTTTGACGGCATCGAG  len: 1   descriptor: >GF8803K02F056X
+2205 : 2512647 : 157::Fibrella_aestuarina_uid178352 : NC_020054.fna
+processed 48 contigs from query file: fasta/971sh.fna

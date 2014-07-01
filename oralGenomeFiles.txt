@@ -1,0 +1,6 @@
+/home/wright/bioinf/library/Bacteria/Aggregatibacter_actinomycetemcomitans_ANH9381_uid80743/NC_016513.fna
+/home/wright/bioinf/library/Bacteria/Aggregatibacter_aphrophilus_NJ8700_uid59407/NC_012913.fna
+/home/wright/bioinf/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D7S_1_uid46989/NC_017846.fna
+/home/wright/bioinf/library/Bacteria/Leptotrichia_buccalis_C_1013_b_uid59211/NC_013192.fna
+/home/wright/bioinf/library/Bacteria/Veillonella_parvula_DSM_2008_uid41927/NC_013520.fna
+/home/wright/bioinf/library/Bacteria/Streptococcus_gordonii_Challis_substr__CH1_uid57667/NC_009785.fna

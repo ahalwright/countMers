@@ -1,0 +1,1 @@
+fasta/NC_017479.fna

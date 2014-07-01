@@ -1,0 +1,5 @@
+fasta/Desulfoporosinus_acidiphilus.fasta
+fasta/Rhodococcus_opacus.fasta
+fasta/Xanthomonas_campestris.fna
+fasta/Rhodococcus_opacus_B4.fasta
+//../mg-rast/salivary/mgm4447103.3.fna

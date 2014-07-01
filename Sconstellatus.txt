@@ -1,0 +1,3 @@
+/home/wright/bioinf/library/Bacteria/Streptococcus_constellatus_pharyngis_C232_uid217998/NC_022236.fna
+/home/wright/bioinf/library/Bacteria/Streptococcus_constellatus_pharyngis_C818_uid218001/NC_022245.fna
+/home/wright/bioinf/library/Bacteria/Streptococcus_constellatus_pharyngis_C1050_uid218002/NC_022238.fna

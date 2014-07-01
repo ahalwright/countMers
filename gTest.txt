@@ -1,0 +1,4 @@
+/home/wright/bioinf/library/Test/Genus1_species1/G11.fna
+/home/wright/bioinf/library/Test/Genus1_species2/G12.fna
+/home/wright/bioinf/library/Test/Genus2_species1/G21.fna
+/home/wright/bioinf/library/Test/Genus2_species2/G22.fna
